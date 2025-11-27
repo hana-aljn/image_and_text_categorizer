@@ -1,7 +1,7 @@
 # image_and_text_categorizer
 
 # 🛒 Product Categorization Using Deep Learning  
-**Image-Based & Title-Based Category Prediction for Iranian E-commerce Items ([Torob.com](https://torob.com/))**
+**Image-Based & Title-Based Category Prediction for Iranian E-commerce Items ([torob](https://torob.com/))**
 
 ---
 
