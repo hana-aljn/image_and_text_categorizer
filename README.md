@@ -81,15 +81,3 @@ Predict product categories using **only Persian product titles**.
 ### 🏁 Output
 An NLP-based classifier capable of inferring **product categories from text alone**.
 
----
-
-## 🧩 Why Two Models?
-
-E-commerce classification benefits from **multi-modal learning**:
-
-| Model | Strength |
-|------|---------|
-| **Image Model** | Recognizes visual features like shape, color, product design |
-| **Title Model** | Captures linguistic cues, brand names, specifications |
-
-Together, they demonstrate how images and text can each independently predict product category structure in online retail systems.
